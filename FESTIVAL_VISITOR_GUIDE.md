@@ -24,25 +24,25 @@
 
 1. Where does the saved change currently live?
 
-   The saved change currently lives in my local working tree in `FESTIVAL_VISITOR_GUIDE.md`.
+   In my local working tree
 
 2. Has it been staged or committed?
 
-   It has not been staged or committed yet; it is currently an unstaged working-tree change.
+   It has not been staged or committed yet. It is currently an unstaged working-tree change.
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: Take AC Transit line 12 to the Lake Merritt BART station, then walk east along Lakeside Drive for about ten minutes.
+- Entrance or meeting location: Meet at the Lake Merritt Pergola's main north entrance beside the community garden.
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. The main path and event area have step-free access for wheelchairs and mobility devices.
+2. Accessible restrooms and reserved seating are available near the north entrance.
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+Keep valuables with you and stay within the lit festival area after sunset.
 
 ## GitHub Verification
 
