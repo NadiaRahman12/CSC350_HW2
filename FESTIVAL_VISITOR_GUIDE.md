@@ -46,7 +46,7 @@ Keep valuables with you and stay within the lit festival area after sunset.
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+Verified on GitHub by Nadia Rahman.
 
 ## Commit Evidence
 
@@ -78,4 +78,3 @@ Keep valuables with you and stay within the lit festival area after sunset.
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
    [Your answer]
-
