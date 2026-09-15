@@ -2,33 +2,33 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: Nadia Rahman
+- Course and section: CSC350H 1300
+- Date: 09/14/2026
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: main
+- Personal Homework 2 GitHub URL: https://github.com/NadiaRahman12/CSC350_HW2.git
+- Starting `git status`: Clean working tree on `main`
+- Starting preparation commit ID: bd125dd
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: Lanterns on the Lake
+- Location: Lake Merritt Pergola, Oakland, California
+- Intended audience: Local families, students, and anyone interested in community arts
+- Theme: An evening of light, music, and handmade art celebrating the many cultures of Oakland.
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   The saved change currently lives in my local working tree in `FESTIVAL_VISITOR_GUIDE.md`.
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   It has not been staged or committed yet; it is currently an unstaged working-tree change.
 
 ## Arrival Information
 
