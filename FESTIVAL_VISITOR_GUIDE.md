@@ -52,29 +52,33 @@ Verified on GitHub by Nadia Rahman.
 
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
-| Personalized guide | [ID] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
-| Final reflection | [ID] | `docs: complete independent Git reflection` |
+| Personalized guide | `66bf20e` | `docs: personalize festival visitor guide` |
+| Visitor access information | `808fd06` | `docs: add visitor access information` |
+| GitHub verification | `eedad95` | `docs: verify independent homework on GitHub` |
+| Final reflection | **See latest commit ID in `git log`** | `docs: complete independent Git reflection` |
+
+## Final Evidence and Submission
+
+The repository has four required student commits, a clean working tree, matching local and GitHub history, and a completed FESTIVAL_VISITOR_GUIDE.md.
 
 ## Individual Reflection
 
 1. What is the difference between saving a file and committing it?
 
-   [Your answer]
+   Saving a file means the changes are stored on my computer. Committing means I save a version of those changes in Git so that I can keep track of what I changed and go back to it later if needed.
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
-   [Your answer]
+   git diff shows changes that are saved but not staged. git diff --staged shows the changes currently included in the staging area and ready for the next commit.
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
-   [Your answer]
+   The GitHub verification sentence did not appear locally because the changes had not been pulled from the GitHub repository yet. After running git pull, Git downloaded the latest changes from GitHub, so the verification sentence appeared in the local file.
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
-   [Your answer]
+   The -u connects the local main branch to the main branch on GitHub. It sets the remote branch as the default, so later we can use simple git push and git pull commands without specifying the branch each time.
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
-   [Your answer]
+   git status shows a clean main branch, local mead matches origin/main, and the newest commit ID matches the commit shown on GitHub.
