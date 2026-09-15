@@ -55,7 +55,7 @@ Verified on GitHub by Nadia Rahman.
 | Personalized guide | `66bf20e` | `docs: personalize festival visitor guide` |
 | Visitor access information | `808fd06` | `docs: add visitor access information` |
 | GitHub verification | `eedad95` | `docs: verify independent homework on GitHub` |
-| Final reflection | **See latest commit ID in `git log`** | `docs: complete independent Git reflection` |
+| Final reflection | `311c882` | `docs: complete independent Git reflection` |
 
 ## Final Evidence and Submission
 
